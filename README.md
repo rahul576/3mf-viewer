@@ -77,3 +77,7 @@ build.sh                 build, sign, install, package
 - **Not opening on double-click:** in the app, choose 3MF Viewer › Make Default for .3mf Files. Or in Finder,
   select a `.3mf` › File › Get Info › Open with › 3MF Viewer › **Change All**.
 - **Going back to Bambu Studio:** do the same Get Info steps and pick Bambu Studio.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
